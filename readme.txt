@@ -1,1 +1,1 @@
-Under Submission
+Accepted at **WiML @ NeurIPS 2025**
